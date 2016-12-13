@@ -1,0 +1,7 @@
+{
+  "name": "uikit_template",
+  "dependencies": {
+    "uikit": "^2.27.2",
+    "owl-carousel": "^1.3.2"
+  }
+}

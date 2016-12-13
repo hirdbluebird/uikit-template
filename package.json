@@ -1,0 +1,30 @@
+{
+  "name": "uikit_template",
+  "version": "1.0.0",
+  "description": "basic uikit template, simple test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirdbluebird/uikit-template.git"
+  },
+  "author": "hirdbluebird",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirdbluebird/uikit-template/issues"
+  },
+  "homepage": "https://github.com/hirdbluebird/uikit-template#readme",
+  "dependencies": {
+    "jquery": "^2.2.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.0.0"
+  }
+}
